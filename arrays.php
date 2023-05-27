@@ -164,3 +164,183 @@ $produtos_pinturas = [
         "descricao" => "Quadro de pintura em tela feito à mão usando acrílica ou óleo sobre tela. Indicado para qualquer ambiente."
     ]
 ];
+$produtos_ceramica = [
+    [
+        "nome" => "Cumbucas (4 peças) em cerâmica artesanal",
+        "foto" => "../imagens/ceramica/cumbucas-4-pecas-em-ceramica.jpg",
+        "preço" => "R$ 168,00",
+        "descricao" => "Quarteto de cumbucas em cerâmica artesanal. Perfeito para o dia a dia, para o momento de servir sobremesa, petiscos, patês, etc. Medidas: 10,5cm; 5cm de altura; 4 peças no conjunto; argila branca com pintas; esmalte: verde flocos (interno) e branco (externo).
+        As peças em cerâmica artesanal são confeccionadas manualmente pela ceramista, com isso cada peça, mesmo que seja da mesma coleção, possuem seus próprios detalhes e se tornam peças únicas."
+    ],
+    [
+        "nome" => "Xícara para Sopa / Caldo em Cerâmica Artesanal",
+        "foto" => "../imagens/ceramica/xicara-para-sopa-caldo.jpg",
+        "preço" => "R$ 155,50",
+        "descricao" => "No frio nada melhor que uma sopa pra esquentar e alimentar. Nesta Xícara linda e elegante será ainda melhor e mais saborosa. Medidas: Xícara: 5cm altura; 14cm diâmetro; 500ml; 
+        Pires: 16,5cm diâmetro; 2cm altura; 
+        Argila: Marrom e Cor esmalte: Verde;"
+    ],
+    [
+        "nome" => "Copo de Cerâmica Verde Cupido Lavanda",
+        "foto" => "../imagens/ceramica/copo-de-ceramica-verde-cupido-lavanda.jpg",
+        "preço" => "R$ 65,00",
+        "descricao" => "É muito fofura! Mas se engana quem acha que é um simples Copo de Cerâmica, viu? Também dá para usar como porta treco, cachepô para plantas... Seu coração que manda aqui.
+        Este Copo de cerâmica é feito à mão, isso significa que ele é uma peça única. Ele tem um Formato Exclusivo de Coração. O Copo Artesanal Verde é a companhia perfeita para acompanhar a sua rotina.
+        Características técnicas: Marca: Lavanda (feito à mão); Cor: Verde Material: Cerâmica; Dimensões aproximadas: 9 cm altura X 9 cm diâmetro; Capacidade: 350ml."
+    ],
+    [
+        "nome" => "Prato em Cerâmica Artesanal",
+        "foto" => "../imagens/ceramica/prato-em-ceramica-artesanal-peca-unica.jpg",
+        "preço" => "R$ 95,00",
+        "descricao" => "Prato em cerâmica manual na cor amarelo esmaltado e queimado em forno de cerâmica a 1000 graus de temperatura. A peça feita a mão carrega consigo a energia e o carinho de quem a fez e torna se totalmente única
+        Altura: 4.00 cm; Largura: 25.00 cm; Comprimento: 25.00 cm; Peso: 603 g."
+    ],
+    [
+        "nome" => "Cerâmica artesanal",
+        "foto" => "../imagens/ceramica/copo-ceramica-artesanal-ceramica-artesanal.jpg",
+        "preço" => "R$ 30,00",
+        "descricao" => "Cerâmica feita à mão de alta temperatura
+        Altura: 0.11 cm; Largura: 0.09 cm; Comprimento: 0.09 cm; Peso: 300 g."
+    ],
+    [
+        "nome" => "Conjunto com saleiro e açucareiro em cerâmica artesanal",
+        "foto" => "../imagens/ceramica/conjunto-com-saleiro-e-acucareiro-em-ceramica-artesanal-saleiro.jpg",
+        "preço" => "R$ 254,00",
+        "descricao" => "Conjunto com saleiro, açucareiro (acompanha colher) e prato oval de base. Os dois acompanham a tampa.
+        Pensando na praticidade e funcionalidade de cada peça, o saleiro não possui esmaltação na parte interna, isso ajuda o sal ficar sequinho por mais tempo! E o açucareiro com colherzinha, para facilitar o uso!
+        Medidas: Açucareiro (acompanha colher): 9 cm, por 7,5cm altura; Saleiro: 9 cm, por 7,5cm altura; Prato oval P: 21,5x11,5cm. Argila branca com pintas e esmalte branco."
+    ]   
+];
+$produtos_bolsa = [
+    [
+        "nome" => "Bolsa artesanal",
+        "foto" => "../imagens/bolsas/bolsa-artesanal-bolsa-de-tecido.jpg",
+        "preço" => "R$ 120,00",
+        "descricao" => "Max bolsa tecida em tear mineiro na cor crua, bordada em patch aplique motivo Costela de Adão. Com bolsão frontal com botão magnético. Bolsa com zíper forrada em tecido de algodão. Alças pespontadas.
+        Altura: 50.00 cm; Largura: 46.00 cm; Peso: 556 g"
+    ],
+    [
+        "nome" => "Bolsa de Tecido Bordada à Máquina Zabé da Loca",
+        "foto" => "../imagens/bolsas/bolsa-de-tecido-bordada-a-maquina-zabe-da-loca.jpg",
+        "preço" => "R$ 135,00",
+        "descricao" => "Bolsa confeccionada com um misto de tecidos (algodão cru, jeans e chitão estampado), com apliques de duratran, bordados à máquina. A bolsa possui bolsinho interno, fechamento com zíper e alça de algodão. Linda de viver!!!
+        Altura: 38.00 cm; Largura: 43.00 cm; Comprimento: 8.00 cm."
+    ],
+    [
+        "nome" => "Bolsa de Tecido Jeans Bordada à Máquina Favela Rio",
+        "foto" => "../imagens/bolsas/bolsa-de-tecido-jeans-bordada-a-mao-favela-rio.jpg",
+        "preço" => "R$ 109,20",
+        "descricao" => "Bolsa confeccionada em jeans ou algodão crú, com forro de tecido chita estampado, com bolsinho interno, fechamento em zíper e alça de algodão. A bolsa retrata as favelas do Rio de Janeiro e é bastante espaçosa... cabe tudo e mais um pouco. Uma ótima opção de presente!
+        Altura: 40.00 cm; Largura: 45.00 cm; Comprimento: 10.00 cm."
+    ],
+    [
+        "nome" => "Chapéu Bucket Hat Crochê Mescla",
+        "foto" => "../imagens/bolsas/chapeu-bucket-hat-croche-mescla-chapeu.jpg",
+        "preço" => "R$ 79,00",
+        "descricao" => "Chapéu de crochê estilo Bucket Hat feito 100% à mão perfeita para o verão! Peça artesanal única e exclusiva da coleção de praia da minha loja!
+        Tamanho: único; Material: barbante; Cores: vermelho/verde/bege mesclado com brilho dourado."
+    ],
+    [
+        "nome" => "Chapéu de Palha Artesanal",
+        "foto" => "../imagens/bolsas/chapeu-de-palha-artesanal-chapeuparis.jpg",
+        "preço" => "R$ 13,00",
+        "descricao" => "Feito em Folha de Carnaúba; Ótimo Acabamento; Somente Palha; Dimensões: 35cm x 33cm; Aba: 8cm; Adulto."
+    ],
+    [
+        "nome" => "Chapéu personalizado",
+        "foto" => "../imagens/bolsas/chapeu-personalizado-chapeu.jpg",
+        "preço" => "R$ 80,00",
+        "descricao" => "Chapéu personalizado com detalhes em grellot."
+    ]
+];
+$produtos_tecidos = [
+    [
+        "nome" => "Peseira Crochê Lã - Artesanal - Decoração",
+        "foto" => "../imagens/tecidos/peseira-croche-la-artesanal-decoracao-artesanal.jpg",
+        "preço" => "R$ 617,49",
+        "descricao" => "Peseira Crochê Lã - Artesanal; Medidas: 2m comprimento x 60cm largura; Ideal para decoração."
+    ],
+    [
+        "nome" => "Tapete de Crochê Redondo Artesanal Andressa",
+        "foto" => "../imagens/tecidos/tapete-de-croche-redondo-artesanal-andressa.jpg",
+        "preço" => "R$ 359,90",
+        "descricao" => "Tapete em crochê linha Infantil. Para dar aconchego a qualquer ambiente. Pode ser usado para inserir charme e textura ao seu cômodo ou ainda sobre outro tapete formando uma composição moderna e elegante. Pode ser lavado na máquina
+        Altura: 0.50 cm; Largura: 110.00 cm; Comprimento: 110.00 cm."
+    ],
+    [
+        "nome" => "Kit atacado 3 turbantes afro faixa em tecido africano",
+        "foto" => "../imagens/tecidos/kit-atacado-3-turbantes-afro-faixa-em-tecido-africano-turbantes-afro.jpg",
+        "preço" => "R$ 40,00",
+        "descricao" => "Contém 3 turbantes em estampas variadas tamanho 1,10 x 0,25"
+    ],
+    [
+        "nome" => "Tecido Africano Ankara Capulana Samacaca Azul",
+        "foto" => "../imagens/tecidos/tecido-africano-ankara-capulana-samacaca-azul-por-metro-tecido-africano.jpg",
+        "preço" => "R$ 70,00",
+        "descricao" => "Tecido africano original importado de Angola. Contém: 1 metro; Largura 1,20;"
+    ],
+    [
+        "nome" => "Tecido Ankara",
+        "foto" => "../imagens/tecidos/tecido-ankara-ankara.jpg",
+        "preço" => "R$ 150,00",
+        "descricao" => "Estampa Africana; 5m de comprimento e 1,15m de altura."
+    ],
+    [
+        "nome" => "Tecido Indiano cortina artesanal boho",
+        "foto" => "../imagens/tecidos/tecido-indiano-cortina-artesanal-boho-tecido-indiano.jpg",
+        "preço" => "R$ 188,99",
+        "descricao" => "Tecido Indiano para Manta Colcha Estampada Tamanho Casal Queen. Feitas a mão pela técnica de 'Block Print'. Importado da Índia.
+        Dimensões: Aprox. 210cm x 220cm."
+    ],
+                        
+];
+$produtos_bonecos = [
+    [
+        "nome" => "Safari Baby Bichinhos de Amigurumi",
+        "foto" => "../imagens/bonecos/promocao-safari-baby-bichinhos-de-amigurumi-girafa-de-pelucia.jpg",
+        "preço" => "R$ 59,90",
+        "descricao" => "Lindos bichinhos da coleção safari baby miniatura.
+        Opções: leão, girafa, zebra, hipopótamo, elefante e macaco.
+        Tamanho: de 10cm a 12cm; Feito com fio 100% algodão; Olhinhos com trava de segurança; Enchimento não alérgico."
+    ],
+    [
+        "nome" => "Boneco Pezão De Barro Artesanal Enfeite Decoração Casa Sala",
+        "foto" => "../imagens/bonecos/boneco-pezao-de-barro-artesanal-enfeite-decoracao-casa-sala-miniatura.jpg",
+        "preço" => "R$ 129,40",
+        "descricao" => "Linda escultura Boneco Pezão
+        Produzido 100% artesanalmente (artesanato mineiro); Produto resistente; Medidas: aprox. 32 a 38cm altura e 11cm pé."
+    ],
+    [
+        "nome" => "Casal de bonecos amigurumi crochê",
+        "foto" => "../imagens/bonecos/pronta-entrega-casal-bonecos-amigurumi-croche-artesanal.jpg",
+        "preço" => "R$ 250,00",
+        "descricao" => "Casal de bonecos feitos em crochê (amigurumi). Excelentes para presentear, usar na decoração, torná-los o melhor amigo do seu filho, etc.
+        Produto feito com linha 100% algodão; Olhos com travas de segurança; Altura: 36 cm aproximadamente (cada)."
+    ],
+    [
+        "nome" => "Boneca de Pano com Chapéu",
+        "foto" => "../imagens/bonecos/boneca-de-pano-com-chapeu-decoracao-de-quarto-infantil.jpg",
+        "preço" => "R$ 149,00",
+        "descricao" => "Boneca de pano artesanal para brincar, decorar e encantar crianças e adultos
+        Confeccionada com tecido de qualidade e enchimento 100% antialérgico; O rostinho é pintado a mão e o cabelo é trançado; A roupinha, o chapéu e o sapatinho poderão ser retirados e colocados na boneca
+        Altura: 45.00 cm e Largura: 20.00 cm"
+    ],
+    [
+        "nome" => "Boneco de Neve e Biscoito de Natal Feltro Artesanal Grande",
+        "foto" => "../imagens/bonecos/boneco-de-neve-e-biscoito-de-natal-feltro-artesanal-grande-enfeite-de-natal.jpg",
+        "preço" => "R$ 35,00",
+        "descricao" => "Boneco de neve e Biscoito de gengibre de feltro todo feito à mão.
+        Para decoração de natal. valor por unidade.
+        Altura: 26.00 cm e Largura: 0.06 cm"
+    ],
+    [
+        "nome" => "Pretos Velhos - Kit Bonecos Artesanais",
+        "foto" => "../imagens/bonecos/vo-e-vo-kit-bonecos-artesanais-vo.jpg",
+        "preço" => "R$ 226,60",
+        "descricao" => "Kit Pretos Velhos - contém: 1 Preto Velho e 1 Preta Velha
+        Material: base em jornal, decoradas com tecidos e metais; Acompanha caixa de presente branca com tampa transparente - acetato e fita. Altura: 30.00 cm"
+    ],
+                        
+];
+
+?>
