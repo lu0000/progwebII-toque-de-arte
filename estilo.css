@@ -117,3 +117,71 @@ body a{
 .favh1 a:hover{
     color: rgb(207, 126, 51);
 }
+/*seções-----------------------------------------------------------------------------------------*/
+
+.secao{
+    width: 100%;
+    min-height: 50vh;
+    padding-bottom: 4rem;
+}
+.titulo{
+    color: #c39d88;
+    text-shadow: 0 0 30px #c39d88bb;
+    margin-bottom: 4rem;
+    font-size: 2rem;
+}
+.secaoimg{
+    width: 100%;
+    height: 37vh;
+    margin-bottom: 1.5rem;
+}
+.secaoimg img{
+    width: 100%;
+    height: 100%;
+}
+.pro1{
+    width: 100%;
+    min-height: 40vh;
+    margin-top: 4rem;
+    display: grid;
+    grid-template-columns: repeat(3, 24%);
+    justify-content: center;
+    gap: 5rem;
+}
+.pro2{
+    width: 100%;
+    height: 22rem;
+    cursor: pointer;
+}
+.pro2 a{
+    color: black;
+    text-decoration: none;
+}
+.pro2:hover{
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.8);
+}
+.pro3{
+    width: 100%;
+    height: 17rem;
+}
+.pro3 img{
+    width: 100%;
+    height: 100%;
+}
+.pro4{
+    background-color: white;
+    width: 100%;
+    height: 5rem;
+    padding: 0.5rem 0;
+    white-space: nowrap; /* Impede que o texto seja quebrado em várias linhas */
+    overflow: hidden; /* Impede que o texto sai pra fora da div*/
+}
+
+/*RODAPÉ-----------------------------------------------------------------------------------*/
+footer{
+    background-color: #cccbca;
+    color: rgb(56, 55, 55);
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
