@@ -185,3 +185,250 @@ footer{
     padding: 10px 0;
     text-align: center;
 }
+
+/*PAGINAS ----------------------------------------------------------------------------------*/
+
+#titulo-categoria{
+    color: #c39d88;
+    font-size: 3rem;
+    text-shadow: 0 0 30px #c39d88bb;
+    text-align: center;
+    padding-top: 3rem;
+    margin-bottom: 3.5rem;
+}
+#paginacategorias{
+    width: 100%;
+    min-height: 70vh;
+    display: grid;
+    grid-template-columns: repeat(3, 30%);
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    
+}
+.categoria{
+    width: 100%;
+    height: 33vh;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+}
+.categoriaimg{
+    width: 100%;
+    height: 29vh;
+}
+.categoriaimg img{
+    width: 100%;
+    height: 100%;
+}
+.categoriash1{
+    background-color: white;
+    width: 100%;
+    height: 4vh;
+    text-align: center;
+}
+.categoriash1 h1{
+    color: #c39d88;
+}
+
+.categoria:hover{
+    transform: scale(1.02);
+}
+
+.titulo-paginas{
+    color: #c39d88;
+    font-size: 2rem;
+    text-shadow: 0 0 30px #c39d88bb;
+    padding-top: 3rem;
+    margin-bottom: 3.5rem;
+}
+
+#comprar{
+    width: 100%;
+    min-height: 100vh;
+    padding-top: 10vh;
+    display: flex;
+    justify-content: center;
+}
+.comprarproduto{
+    background-color: white;
+    width: 40%;
+    height: 36rem;
+    margin-right: 1rem;
+    padding: 2rem 0.8rem;
+    box-shadow: 0 0 10px black;
+}
+.comprarimg{
+    width: 100%;
+    height: 25rem;
+}
+.comprarimg img{
+    width: 100%;
+    height: 100%;
+}
+.infor{
+    background-color: white;
+    width: 30%;
+    height: 36rem;
+    padding: 2rem 0.8rem;
+    word-break: break-all;
+    box-shadow: 0 0 10px black;
+}
+.tituloinfor{
+    color: #1C1C1C;
+    margin-bottom: 2rem;
+}
+.precoinfor{
+    color: #1C1C1C;
+    margin-bottom: 1rem;
+}
+.botao{
+    color: white;
+    font-size: 1.5rem;
+    background-color: #1E90FF;
+    border-radius: 10px;
+    border: 1px solid #6495ED;
+    cursor: pointer;
+    width: 60%;
+    height: 2.8rem;
+    margin: 2rem 0;   
+}
+.botao:hover{
+    transform: scale(1.02);
+    background-color: #00BFFF;
+    border: 1px solid #87CEEB;
+}
+.detalhes{
+    color: #1C1C1C;
+    margin-top: 2rem;
+    word-break: break-all;
+}
+
+/*CADASTRO---------------------------------------------------------------------------*/
+.cadastrotitulo{
+    color: #c39d88;
+    text-align: center;
+    padding: 3rem 0 1rem;
+}
+.pagina{
+    display: flex;
+	justify-content: center;
+}
+.formulario_cadastro{
+    background-color: #fbf9f8;
+    border: 1px solid #d4d1d1;
+    padding: 1rem; 
+    height: 440px;
+    width: 310px;
+    border-radius: 4px;
+    
+}
+.formulario_login{
+    background-color: #fbf9f8;
+    border: 1px solid #d4d1d1;
+    padding: 1rem; 
+    height: 295;
+    width: 310px;
+    border-radius: 4px;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"],
+select {
+    background-color: #ffffff;
+	padding: 8px;
+	margin-bottom: 20px;
+    margin-top:3px;
+	width: 100%;
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+    border: 1px solid #d4d1d1;
+    border-radius: 4px;
+}
+
+.butaocalo{
+    padding: 10px;
+	margin-bottom: 20px;
+    margin-top: 8px;
+	width: 100%;
+    border: 1px solid #d4d1d1;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color:  rgb(227, 153, 119);
+}
+.butaocalo:hover{
+    background-color: rgb(235, 176, 149);
+    cursor: pointer;
+}
+.cap{
+    font-size: 15px;
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+.caa{
+    margin-left: 4px;
+    text-decoration: none;
+    color: rgb(82, 82, 150);
+    cursor: pointer;
+}
+/*QUEM SOMOS?----------------------------------------------------------------------------*/
+
+#container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 6rem 1rem;
+    align-items: center;
+}
+.integrantes{
+    width: 100%;
+    height: 18rem;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 3rem;
+}
+.grupo{
+    width: 23%;
+    height: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 8px inset rgb(184, 147, 113);
+}
+.grupo:hover{
+    transform: scale(1.02);
+}
+.divimg{
+    width: 100%;
+    height: 14rem;
+    background-color: #1C1C1C;
+}
+.divimg img{
+    width: 100%;
+    height: 100%;
+}
+.divh2{
+    background-color: #c39d88;
+    color: rgb(73, 69, 69);
+    width: 100%;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quem-somos{
+    background-color: #c39d88;
+    color: rgb(73, 69, 69);
+    width: 99%;
+    min-height: 20rem;
+    padding: 1rem 1rem 2.5rem;
+    border-radius: 20px;
+    text-align: justify;
+}
+.quem-somos h1{
+    text-align: center;
+    margin: 1rem 0;
+}
+.quem-somos p{
+    font-size: 21px;
+}
